@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Guess The Number",
+    "image": "./img/project_1.png",
+    "projectNumber": 1,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Guess%20The%20Number"
+  },
+  {
+    "name": "Save Any Info",
+    "image": "./img/project_2.png",
+    "projectNumber": 2,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Save%20Any%20Info"
+  },
+  {
+    "name": "Secret Page",
+    "image": "./img/project_3.png",
+    "projectNumber": 3,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Secret%20Page"
+  },
+  {
+    "name": "Analog Clock",
+    "image": "./img/project_4.png",
+    "projectNumber": 4,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Clock"
+  }
+]
