@@ -1,3 +1,3 @@
 # Deployed Site Link
 
-[100 JavaScript Projects](https://javascipt-projects.netlify.app/)
+[100 JavaScript Projects](https://100-jsprojects.netlify.app/)
