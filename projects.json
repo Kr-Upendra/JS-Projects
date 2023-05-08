@@ -22,5 +22,11 @@
     "image": "./img/project_4.png",
     "projectNumber": 4,
     "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Clock"
+  },
+  {
+    "name": "Result Calculator",
+    "image": "./img/project_5.png",
+    "projectNumber": 5,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Grade%20Calculator"
   }
 ]
