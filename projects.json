@@ -64,5 +64,11 @@
     "image": "./img/project_11.png",
     "projectNumber": 11,
     "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Tip%20Calculator"
+  },
+  {
+    "name": "Random Password Generator",
+    "image": "./img/project_12.png",
+    "projectNumber": 12,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Random%20Password%20Generator"
   }
 ]
