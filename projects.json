@@ -28,5 +28,41 @@
     "image": "./img/project_5.png",
     "projectNumber": 5,
     "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Grade%20Calculator"
+  },
+  {
+    "name": "Model Box",
+    "image": "./img/project_6.png",
+    "projectNumber": 6,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Model%20Box"
+  },
+  {
+    "name": "Infinte Scrolling Webpage",
+    "image": "./img/project_7.png",
+    "projectNumber": 7,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Infinite%20Scrolling"
+  },
+  {
+    "name": "Color Flipper",
+    "image": "./img/project_8.png",
+    "projectNumber": 8,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Color%20Flipper"
+  },
+  {
+    "name": "Random Color Palette Generator",
+    "image": "./img/project_9.png",
+    "projectNumber": 9,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Color%20Palette"
+  },
+  {
+    "name": "Word Counter",
+    "image": "./img/project_10.png",
+    "projectNumber": 10,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Word%20Counter"
+  },
+  {
+    "name": "Tip Calculator",
+    "image": "./img/project_11.png",
+    "projectNumber": 11,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Tip%20Calculator"
   }
 ]

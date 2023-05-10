@@ -11,7 +11,7 @@ async function getProjects() {
           <div class="cards__img">
             <img src="${item.image}" alt="Projects Image" />
             <div class="daycount">
-              <span>Project ${item.projectNumber}</span>
+              <span>Project No. ${item.projectNumber}</span>
             </div>
           </div>
           <div class="cards__detail">
