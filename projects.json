@@ -70,5 +70,11 @@
     "image": "./img/project_12.png",
     "projectNumber": 12,
     "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Random%20Password%20Generator"
+  },
+  {
+    "name": "Guess The Color",
+    "image": "./img/project_13.png",
+    "projectNumber": 13,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Guess%20The%20Color"
   }
 ]
