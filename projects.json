@@ -76,5 +76,11 @@
     "image": "./img/project_13.png",
     "projectNumber": 13,
     "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/Guess%20The%20Color"
+  },
+  {
+    "name": "Calender",
+    "image": "./img/project_14.png",
+    "projectNumber": 14,
+    "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Calender"
   }
 ]
