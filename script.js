@@ -18,11 +18,18 @@ async function getProjects() {
             <h4>${item.name}</h4>
           </div>
           <div class="cards__link">
-            <a class="btn" href="${item.sourcelink}" target="_blank">Source Code</a>
+            <a class="btn" href="${
+              item.sourcelink
+            }" target="_blank">Source Code</a>
           </div>
           <div class="cards__tag">
-            <span class="el-tags">JavaScript</span>
-            <span class="el-tags">Ideas</span>
+            <span class="el-tags">${item.tags[0]}</span>
+            ${
+              item.tags[1] ? `<span class="el-tags">${item.tags[1]}</span>` : ""
+            }
+            ${
+              item.tags[2] ? `<span class="el-tags">${item.tags[2]}</span>` : ""
+            }
           </div>
         </div>
         `;
