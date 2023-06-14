@@ -25,6 +25,7 @@
   --transformUpper: uppercase;
   --boxShadow: rgba(0, 0, 0, 0.226) 0px 4px 12px;
   --paraColor: rgba(0, 0, 0, 0.712);
+  --borderGray: rgb(182, 182, 182);
 }
 
 * {
@@ -187,8 +188,23 @@ body {
 
 .cards__link {
   display: flex;
-  margin-bottom: 1rem;
   justify-content: space-between;
+}
+
+.cards__tag {
+  margin: 1.25rem 0 1rem;
+}
+
+.el-tags {
+  margin-right: 1rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 3rem;
+  cursor: default;
+  font-weight: 500;
+  background-image: var(--btnBgColor);
+  color: var(--paraColor);
+  font-size: 0.85rem;
+  text-transform: var(--transformUpper);
 }
 
 a[class="btn"] {

@@ -20,6 +20,10 @@ async function getProjects() {
           <div class="cards__link">
             <a class="btn" href="${item.sourcelink}" target="_blank">Source Code</a>
           </div>
+          <div class="cards__tag">
+            <span class="el-tags">JavaScript</span>
+            <span class="el-tags">Ideas</span>
+          </div>
         </div>
         `;
       })
