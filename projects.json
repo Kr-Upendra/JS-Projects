@@ -96,5 +96,12 @@
     "projectNumber": 14,
     "sourcelink": "https://github.com/Kr-Upendra/JS-Beginner-Project/tree/main/Calender",
     "tags": ["Date", "Calander"]
+  },
+  {
+    "name": "Text Reader",
+    "image": "./img/notfound.png",
+    "projectNumber": 15,
+    "sourcelink": "https://github.com/Kr-Upendra/Extentions/tree/main/Content%20Reader",
+    "tags": ["Extension", "JS Speech API"]
   }
 ]
