@@ -103,5 +103,12 @@
     "projectNumber": 15,
     "sourcelink": "https://github.com/Kr-Upendra/Extentions/tree/main/Content%20Reader",
     "tags": ["Extension", "JS Speech API"]
+  },
+  {
+    "name": "Weather App",
+    "image": "./img/project_15.png",
+    "projectNumber": 16,
+    "sourcelink": "https://github.com/Kr-Upendra/100-JavaScript-Beginners-Projects/tree/main/weather-app",
+    "tags": ["JavaScript", "Weather App", "API"]
   }
 ]
